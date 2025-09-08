@@ -30,7 +30,8 @@ function Triangle(x1, y1, x2, y2, x3, y3) {
 }
 
 
-Rectangle(80, 120, 80, 60)
-
+Rectangle(80, 120, 80, 60);
+Circle(100, 100, 50);
+Triangle(100, 100, 50, 50, 150, 150);
 
 
